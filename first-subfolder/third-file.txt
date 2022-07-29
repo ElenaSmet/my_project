@@ -1,1 +1,2 @@
-This is the third text file
+This is the third text file.
+Also changed in the branch main.
